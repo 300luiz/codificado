@@ -1,0 +1,71 @@
+ *{
+font-family:"";
+font-size: 32px;
+font-weight: 400;
+line-height: 150%;
+}
+
+body{
+    background-color: #e5e5e5;
+    padding: 30px;
+    display: flex;
+}
+
+header{
+    margin-left: 50px; 
+}
+
+main{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.input-texto{
+    margin-top: 30px;
+    line-height: 1;
+    list-style-type: style none;
+
+}
+
+.mensagem{
+ 
+ position: fixed;
+ margin-top: 20px;
+ margin-left: 90px;
+ background-image: url;
+background-repeat: no-repeat;
+background-position: 18px;
+background-size: 300px;
+
+}
+
+.copiar{
+     position:fixed;
+     margin-top: 300px;
+     margin-left: 200px;
+
+}
+
+.botoes{
+ display:flex;
+ flex-direction: row;
+ margin-top: 10px;
+
+}
+
+.encriptar{
+  
+    background-color: darkblue;
+    color:#fff
+}
+
+.desencriptar{
+    background-color: darkgrey;
+    color:black;
+    margin-left: 30px;
+    
+}
+
+.informacao{
+    font-size: 15px;
+}
